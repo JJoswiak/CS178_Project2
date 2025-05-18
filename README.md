@@ -1,7 +1,6 @@
 # CS178 Project 2 Automated "Stat of the Day" Email with AWS
 
-# This project is a serverless application that automatically sends a random "Stat of the Day" email every morning at 7:00 AM using AWS services. 
-It integrates AWS Lambda, DynamoDB, SES (Simple Email Service), EventBridge, and IAM roles to deliver a personalized, scheduled email system.
+# This project is a serverless application that automatically sends a random "Stat of the Day" email every morning at 7:00 AM using AWS services. It integrates AWS Lambda, DynamoDB, SES (Simple Email Service), EventBridge, and IAM roles to deliver a personalized, scheduled email system.
 
 ---
 
